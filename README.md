@@ -2,4 +2,7 @@
 
 ## SneakySession
 
-Allows you get GUI and not logout the local machine when RDP is disconnected with this scripts. That make some software work properly like screen recroding.
+Allows you get GUI on and not logout the local machine when RDP is disconnected via this scripts.  
+That make some software work properly, such as screen recroding.  
+
+**Need to be run as administrator**  
